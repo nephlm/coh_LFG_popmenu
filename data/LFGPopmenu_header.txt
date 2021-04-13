@@ -1,0 +1,16 @@
+// POPMENU file for BadgeSetListNeph
+// Version 20210401
+// Original BadgeList menu created by Janrith and updated by ROBOKiTTY
+// Original Settitle menu created by Wingman
+// BadgeSetList built upon above menus and modified by AboveTheChemist
+// BadgeSetListNeph built upon the above and modified my Nephlm
+
+
+Menu "BadgeSetListNeph"
+Title "Badges"
+{
+// This Favorites section is intended for individual customizaton
+// Copy/paste favorite badges here for easy access
+	Menu "Favorites"
+	{
+	//===============================================

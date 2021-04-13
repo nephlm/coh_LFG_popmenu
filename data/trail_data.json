@@ -1,0 +1,699 @@
+[
+    {
+        "Trial": "Death From Below",
+        "Trial Key": "DFB",
+        "Max Players": "8",
+        "Min Level": "1",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": [
+            "DFB"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "DFB",
+                "Name": "Cadaver Counter",
+                "setTitleId": "2023",
+                "badge_key": "SL1_SewerTrial_VahzCadaversSpared"
+            },
+            {
+                "Trial Key": "DFB",
+                "Name": "The Cleanser",
+                "setTitleId": "2022",
+                "badge_key": "SL1_SewerTrial_LostWorshippersKilled"
+            },
+            {
+                "Trial Key": "DFB",
+                "Name": "Hydra Stomper",
+                "setTitleId": "2021",
+                "badge_key": "SL1_SewerTrial_Complete"
+            }
+        ]
+    },
+    {
+        "Trial": "Cavern of Transcendence",
+        "Trial Key": "CoT",
+        "Max Players": "8",
+        "Min Level": "12",
+        "Merits": "7",
+        "Contact": "Karsis",
+        "Zone": "Hollows",
+        "Type": "Standard",
+        "Abbreviation": [
+            "CoT"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "CoT",
+                "Name": "Transcendent",
+                "setTitleId": "70",
+                "badge_key": "HollowsTR"
+            }
+        ]
+    },
+    {
+        "Trial": "Drowning in Blood",
+        "Trial Key": "DiB",
+        "Max Players": "8",
+        "Min Level": "15",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": [
+            "DiB"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "DiB",
+                "Name": "Sibling Rivalry",
+                "setTitleId": "2175",
+                "badge_key": "BloodyBayTrial_Complete"
+            },
+            {
+                "Trial Key": "DiB",
+                "Name": "Sidereal Researcher",
+                "setTitleId": "2177",
+                "badge_key": "BloodyBayTrial_Meteors"
+            },
+            {
+                "Trial Key": "DiB",
+                "Name": "Brotherly Love",
+                "setTitleId": "2176",
+                "badge_key": "BloodyBayTrial_SimultaneousDefeat"
+            }
+        ]
+    },
+    {
+        "Trial": "Terra Volta 1",
+        "Trial Key": "TV1",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "27",
+        "Contact": "Jane Hallaway",
+        "Zone": "Independence Port",
+        "Type": "Respec",
+        "Abbreviation": [
+            "TV1"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "TV1",
+                "Name": "Received the Stalwart Medallion",
+                "setTitleId": "178",
+                "badge_key": "StalwartMedallionUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Terra Volta 2",
+        "Trial Key": "TV2",
+        "Max Players": "8",
+        "Min Level": "34",
+        "Merits": "20",
+        "Contact": "Captain James Harlan",
+        "Zone": "Founders' Falls",
+        "Type": "Respec",
+        "Abbreviation": [
+            "TV2"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "TV2",
+                "Name": "Earned the Statesman Star",
+                "setTitleId": "179",
+                "badge_key": "StatesmanStarUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Terra Volta 3",
+        "Trial Key": "TV3",
+        "Max Players": "8",
+        "Min Level": "44",
+        "Merits": "20",
+        "Contact": "Major Richard Flagg",
+        "Zone": "Peregrine Island",
+        "Type": "Respec",
+        "Abbreviation": [
+            "TV3"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "TV3",
+                "Name": "Awarded the Freedom Cross",
+                "setTitleId": "180",
+                "badge_key": "FreedomCrossUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Abandoned Sewers",
+        "Trial Key": "Sewers",
+        "Max Players": "8",
+        "Min Level": "38",
+        "Merits": "28",
+        "Contact": "Mairenn MacGregor",
+        "Zone": "Atlas Park",
+        "Type": "Standard",
+        "Abbreviation": [
+            ""
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Sewers",
+                "Name": "Charmer",
+                "setTitleId": "69",
+                "badge_key": "SewerTR"
+            },
+            {
+                "Trial Key": "Sewers",
+                "Name": "Head of the Hydra",
+                "setTitleId": "146",
+                "badge_key": "AbandonedSewersTour1"
+            }
+        ]
+    },
+    {
+        "Trial": "Eden",
+        "Trial Key": "Eden",
+        "Max Players": "8",
+        "Min Level": "39",
+        "Merits": "6",
+        "Contact": "Woodsman",
+        "Zone": "Eden",
+        "Type": "Standard",
+        "Abbreviation": [
+            ""
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Eden",
+                "Name": "Liberator",
+                "setTitleId": "68",
+                "badge_key": "EdenTR"
+            }
+        ]
+    },
+    {
+        "Trial": "Cathedral of Pain",
+        "Trial Key": "CoP",
+        "Max Players": "8",
+        "Min Level": "10",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": [
+            "CoP"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "CoP",
+                "Name": "Pain Killer",
+                "setTitleId": "1599",
+                "badge_key": "CoPComplete"
+            }
+        ]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT1",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "15",
+        "Contact": "Sparcetiel",
+        "Zone": "Nerva",
+        "Type": "ToT1",
+        "Abbreviation": [
+            "ToT1"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "ToT1",
+                "Name": "Thorn Robber",
+                "setTitleId": "516",
+                "badge_key": "UnderTheKnifeUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT2",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "14",
+        "Contact": "trepsarciel",
+        "Zone": "Nerva",
+        "Type": "ToT1",
+        "Abbreviation": [
+            "ToT2"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "ToT2",
+                "Name": "Thorn Thief",
+                "setTitleId": "517",
+                "badge_key": "NipTuckUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT3",
+        "Max Players": "8",
+        "Min Level": "44",
+        "Merits": "15",
+        "Contact": "Ractespriel",
+        "Zone": "",
+        "Type": "ToT1",
+        "Abbreviation": [
+            "ToT3"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "ToT3",
+                "Name": "Thorn Usurper",
+                "setTitleId": "518",
+                "badge_key": "FaceliftedUsed"
+            }
+        ]
+    },
+    {
+        "Trial": "Behavioral Adjustment Facility",
+        "Trial Key": "BAF",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "BAF"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "BAF",
+                "Name": "Behavior Adjuster",
+                "setTitleId": "1974",
+                "badge_key": "IT_BAF_Complete"
+            },
+            {
+                "Trial Key": "BAF",
+                "Name": "Not On My Watch",
+                "setTitleId": "1975",
+                "badge_key": "IT_BAF_NoEscapes"
+            },
+            {
+                "Trial Key": "BAF",
+                "Name": "Alarm Raiser",
+                "setTitleId": "1976",
+                "badge_key": "IT_BAF_NoTowers"
+            },
+            {
+                "Trial Key": "BAF",
+                "Name": "Gotta Keep 'Em Separated",
+                "setTitleId": "1977",
+                "badge_key": "IT_BAF_NoMovingAVs"
+            },
+            {
+                "Trial Key": "BAF",
+                "Name": "Strong and Pretty",
+                "setTitleId": "1978",
+                "badge_key": "IT_BAF_NoAdds"
+            },
+            {
+                "Trial Key": "BAF",
+                "Name": "Master of the B.A.F.",
+                "setTitleId": "1979",
+                "badge_key": "IT_BAF_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "Lambda Sector",
+        "Trial Key": "Lambda",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "LAM"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Lambda",
+                "Name": "Lambda Leader",
+                "setTitleId": "1983",
+                "badge_key": "IT_Lambda_Complete"
+            },
+            {
+                "Trial Key": "Lambda",
+                "Name": "Synchronized",
+                "setTitleId": "1984",
+                "badge_key": "IT_Lambda_Simultaneity"
+            },
+            {
+                "Trial Key": "Lambda",
+                "Name": "Lambda Looter",
+                "setTitleId": "1987",
+                "badge_key": "IT_Lambda_NoPowers"
+            },
+            {
+                "Trial Key": "Lambda",
+                "Name": "Antacid",
+                "setTitleId": "1986",
+                "badge_key": "IT_Lambda_NoAcids"
+            },
+            {
+                "Trial Key": "Lambda",
+                "Name": "Well-Stocked",
+                "setTitleId": "1985",
+                "badge_key": "IT_Lambda_NoGrenades"
+            },
+            {
+                "Trial Key": "Lambda",
+                "Name": "Master of Lambda Sector",
+                "setTitleId": "1988",
+                "badge_key": "IT_Lambda_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "Keyes Island Reactor",
+        "Trial Key": "Keyes",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "Keyes"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Keyes",
+                "Name": "Keyes Technician",
+                "setTitleId": "1989",
+                "badge_key": "IT_Keyes_Complete"
+            },
+            {
+                "Trial Key": "Keyes",
+                "Name": "Anti-Anti-Matter",
+                "setTitleId": "1990",
+                "badge_key": "IT_Keyes_StrongPulse"
+            },
+            {
+                "Trial Key": "Keyes",
+                "Name": "Bunker Buster",
+                "setTitleId": "1991",
+                "badge_key": "IT_Keyes_BunkerBuster"
+            },
+            {
+                "Trial Key": "Keyes",
+                "Name": "Loves a Challenge",
+                "setTitleId": "1992",
+                "badge_key": "IT_Keyes_Challenge"
+            },
+            {
+                "Trial Key": "Keyes",
+                "Name": "Avoids the Green Stuff",
+                "setTitleId": "1993",
+                "badge_key": "IT_Keyes_NoHolds"
+            },
+            {
+                "Trial Key": "Keyes",
+                "Name": "Master of Keyes Island Reactor",
+                "setTitleId": "1994",
+                "badge_key": "IT_Keyes_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "The Underground",
+        "Trial Key": "Underground",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            ""
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Underground",
+                "Name": "Underground Seeker",
+                "setTitleId": "1995",
+                "badge_key": "IT_Underground_Complete"
+            },
+            {
+                "Trial Key": "Underground",
+                "Name": "Regenerate This",
+                "setTitleId": "1996",
+                "badge_key": "IT_Underground_FastKill"
+            },
+            {
+                "Trial Key": "Underground",
+                "Name": "Tour Guide",
+                "setTitleId": "1997",
+                "badge_key": "IT_Underground_DesHealth"
+            },
+            {
+                "Trial Key": "Underground",
+                "Name": "Preservation Specialist",
+                "setTitleId": "1998",
+                "badge_key": "IT_Underground_AllBombs"
+            },
+            {
+                "Trial Key": "Underground",
+                "Name": "Avatar Assassin",
+                "setTitleId": "1999",
+                "badge_key": "IT_Underground_AvatarBomb"
+            },
+            {
+                "Trial Key": "Underground",
+                "Name": "Master of the Underground",
+                "setTitleId": "2000",
+                "badge_key": "IT_Underground_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "TPN Campus",
+        "Trial Key": "TPN",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "TPN"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "TPN",
+                "Name": "Spin Doctor",
+                "setTitleId": "2072",
+                "badge_key": "IT_TPN_Complete"
+            },
+            {
+                "Trial Key": "TPN",
+                "Name": "News Flash",
+                "setTitleId": "2073",
+                "badge_key": "IT_TPN_PropagandaChallenge"
+            },
+            {
+                "Trial Key": "TPN",
+                "Name": "Fair and Balanced",
+                "setTitleId": "2074",
+                "badge_key": "IT_TPN_TelepathistChallenge"
+            },
+            {
+                "Trial Key": "TPN",
+                "Name": "Television Addict",
+                "setTitleId": "2075",
+                "badge_key": "IT_TPN_TelevisionChallenge"
+            },
+            {
+                "Trial Key": "TPN",
+                "Name": "Tonight's Top Story",
+                "setTitleId": "2076",
+                "badge_key": "IT_TPN_MaelstromChallenge"
+            },
+            {
+                "Trial Key": "TPN",
+                "Name": "Master of TPN Campus",
+                "setTitleId": "2077",
+                "badge_key": "IT_TPN_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "Minds of Mayhem",
+        "Trial Key": "MoM",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "MoM"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "MoM",
+                "Name": "Mental Voyager",
+                "setTitleId": "2078",
+                "badge_key": "IT_MoM_Complete"
+            },
+            {
+                "Trial Key": "MoM",
+                "Name": "Dreamwalker/Dreamkiller",
+                "setTitleId": "2079",
+                "badge_key": "IT_MoM_MalaiseChallenge"
+            },
+            {
+                "Trial Key": "MoM",
+                "Name": "A Perfect Storm",
+                "setTitleId": "2080",
+                "badge_key": "IT_MoM_PenelopeChallenge"
+            },
+            {
+                "Trial Key": "MoM",
+                "Name": "Daylight Saver",
+                "setTitleId": "2081",
+                "badge_key": "IT_MoM_AuroraChallenge"
+            },
+            {
+                "Trial Key": "MoM",
+                "Name": "Lost Connection to Server",
+                "setTitleId": "2082",
+                "badge_key": "IT_MoM_ShaliceChallenge"
+            },
+            {
+                "Trial Key": "MoM",
+                "Name": "Master of Minds of Mayhem",
+                "setTitleId": "2083",
+                "badge_key": "IT_MoM_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "Dilemma Diabolique",
+        "Trial Key": "DD",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "Diabolique",
+            "DD"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "DD",
+                "Name": "Death Denied",
+                "setTitleId": "2163",
+                "badge_key": "IT_DD_Complete"
+            },
+            {
+                "Trial Key": "DD",
+                "Name": "Spinebreaker",
+                "setTitleId": "2164",
+                "badge_key": "IT_DD_TimeChallenge"
+            },
+            {
+                "Trial Key": "DD",
+                "Name": "Sentinel Smasher",
+                "setTitleId": "2165",
+                "badge_key": "IT_DD_SentinelChallenge"
+            },
+            {
+                "Trial Key": "DD",
+                "Name": "Sacrificial Lamb",
+                "setTitleId": "2166",
+                "badge_key": "IT_DD_NoRescueChallenge"
+            },
+            {
+                "Trial Key": "DD",
+                "Name": "Life and Death",
+                "setTitleId": "2167",
+                "badge_key": "IT_DD_HealingChallenge"
+            },
+            {
+                "Trial Key": "DD",
+                "Name": "Master of Dilemma Diabolique",
+                "setTitleId": "2168",
+                "badge_key": "IT_DD_Master"
+            }
+        ]
+    },
+    {
+        "Trial": "Magisterium",
+        "Trial Key": "Mag",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [
+            "Mag"
+        ],
+        "Badges": [
+            {
+                "Trial Key": "Mag",
+                "Name": "Enemy of the State",
+                "setTitleId": "2220",
+                "badge_key": "IT_MAG_Complete"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "Triple Threat",
+                "setTitleId": "2221",
+                "badge_key": "IT_MAG_Challenge1"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "Ready to Rumble",
+                "setTitleId": "2222",
+                "badge_key": "IT_MAG_Challenge2"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "Shadow Master",
+                "setTitleId": "2223",
+                "badge_key": "IT_MAG_Challenge3"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "The Hard Way",
+                "setTitleId": "2224",
+                "badge_key": "IT_MAG_Challenge4"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "Master of Magisterium",
+                "setTitleId": "2225",
+                "badge_key": "IT_MAG_Master"
+            },
+            {
+                "Trial Key": "Mag",
+                "Name": "The Really Hard Way",
+                "setTitleId": "2238",
+                "badge_key": "IT_MAG_EpicChallenge"
+            }
+        ]
+    }
+]

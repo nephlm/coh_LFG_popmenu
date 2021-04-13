@@ -1,0 +1,155 @@
+[
+    {
+        "Name": "Sally",
+        "Badge": "Believer",
+        "Badge Key": "Believer",
+        "setTitleId": "430",
+        "Merits": "",
+        "Zone": "Croatoa",
+        "Description": "Defeat Sally, a monster that spawns in Croatoa, twice"
+    },
+    {
+        "Name": "Babbage",
+        "Badge": "Clockstopper",
+        "Badge Key": "Clockstopper",
+        "setTitleId": "32",
+        "Merits": "2",
+        "Zone": "Boomtown/Skyway",
+        "Description": "Defeat Babbage, a monster that spawns in Boomtown or in an ambush in the Synapse Task Force"
+    },
+    {
+        "Name": "Lusca",
+        "Badge": "Devilfish",
+        "Badge Key": "OctopusEventBadge",
+        "setTitleId": "207",
+        "Merits": "2",
+        "Zone": "Independence Port",
+        "Description": "Defeat Lusca, a monster that spawns in Independence Port"
+    },
+    {
+        "Name": "Jack in irons",
+        "Badge": "Giant Killer",
+        "Badge Key": "GiantKiller",
+        "setTitleId": "428",
+        "Merits": "2",
+        "Zone": "Croatoa",
+        "Description": "Defeat Jack in Irons, a monster that spawns in Croatoa"
+    },
+    {
+        "Name": "Ghost of Scrapyard",
+        "Badge": "Hammer Down",
+        "Badge Key": "Scrapyard",
+        "setTitleId": "304",
+        "Merits": "2",
+        "Zone": "Sharkhead Isle",
+        "Description": "Defeat the Ghost of Scrapyard, a monster that spawns in Sharkhead Isle"
+    },
+    {
+        "Name": "Caleb",
+        "Badge": "HellBane",
+        "Badge Key": "ThornIsle2",
+        "setTitleId": "307",
+        "Merits": "",
+        "Zone": "Nerva Archipelago",
+        "Description": "Defeat Caleb, a monster that spawns in Nerva Archipelago"
+    },
+    {
+        "Name": "Adamastor",
+        "Badge": "Keeper of Secrets",
+        "Badge Key": "KeeperOfSecrets",
+        "setTitleId": "38",
+        "Merits": "2",
+        "Zone": "Echo: Dark Astoria",
+        "Description": "Defeat Adamastor, a monster who can be summoned in Echo: Dark Astoria"
+    },
+    {
+        "Name": "Kronos Class Titan",
+        "Badge": "Master / Mistress of Olympus",
+        "Badge Key": "MasterOfOlympus",
+        "setTitleId": "60",
+        "Merits": "2",
+        "Zone": "Founder's Fall",
+        "Description": "Defeat Kronos Class Titan, a monster in an ambush in a Crimson mission"
+    },
+    {
+        "Name": "U'Kon Gr'ai",
+        "Badge": "Master at Arms",
+        "Badge Key": "RWZMasterAtArms",
+        "setTitleId": "854",
+        "Merits": "",
+        "Zone": "Rikti War Zone",
+        "Description": "Defeat the Rikti Master at Arms U'Kon Gr'ai 10 times during Rikti Ship Raids"
+    },
+    {
+        "Name": "Eochai",
+        "Badge": "Pumpkin King / Queen",
+        "Badge Key": "PumpkinKing",
+        "setTitleId": "429",
+        "Merits": "2",
+        "Zone": "Croatoa",
+        "Description": "Defeat Eochai, a monster that spawns in Croatoa"
+    },
+    {
+        "Name": "Deathsurge",
+        "Badge": "Surging",
+        "Badge Key": "Surging",
+        "setTitleId": "519",
+        "Merits": "2",
+        "Zone": "Cap au Diable",
+        "Description": "Defeat Deathsurge, a monster that spawns in Cap au Diable"
+    },
+    {
+        "Name": "Jurasssik",
+        "Badge": "The Solution",
+        "Badge Key": "TheSolution",
+        "setTitleId": "44",
+        "Merits": "2",
+        "Zone": "Crey's Folly",
+        "Description": "Defeat Jurassik, a monster that spawns in Crey's Folly"
+    },
+    {
+        "Name": "Kraken",
+        "Badge": "Unleasher",
+        "Badge Key": "Unleasher",
+        "setTitleId": "181",
+        "Merits": "2",
+        "Zone": "Perez Park",
+        "Description": "Defeat the Kraken, a monster that spawns in Perez Park"
+    },
+    {
+        "Name": "Goliath War Walker",
+        "Badge": "War Machine",
+        "Badge Key": "CouncilGoliath",
+        "setTitleId": "2333",
+        "Merits": "",
+        "Zone": "Boomtown",
+        "Description": "Defeat the Council War Walker in Boomtown"
+    },
+    {
+        "Name": "Paladin",
+        "Badge": "Knight Errant",
+        "Badge Key": "ClockworkPaladinEventBadge",
+        "setTitleId": "200",
+        "Merits": "2",
+        "Zone": "Kings Row",
+        "Description": "Prevent the construction of Paladin, a monster that spawns in Kings Row"
+    },
+    {
+        "Name": "Winter Lord",
+        "Badge": "Frozen Fury",
+        "Badge Key": "SnowbeastDefeatBadge",
+        "setTitleId": "210",
+        "Merits": "2",
+        "Zone": "Winter Event",
+        "Description": "Defeat the Winter Lord, a monster that spawns during the winter event"
+    },
+    {
+        "Name": "Arachnos Flier",
+        "Badge": "Heat Seeker",
+        "Badge Key": "ArachnosFlier",
+        "setTitleId": "570",
+        "Merits": "2",
+        "Zone": "Grandville",
+        "Description": "Defeat the Arachnos Flier in Grandville"
+    }
+]

@@ -1,0 +1,514 @@
+[
+    {
+        "Hero Badge": "Saved the World",
+        "Villain Badge": "Saved the World... For Later",
+        "Badge Key": "STFVictory",
+        "setTitleId": "733",
+        "Description": "Complete the Ms. Liberty Task Force",
+        "Contact": "Ms. Liberty",
+        "Min Level": "45",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "38",
+        "Abbreviation": [
+            "MLTF"
+        ]
+    },
+    {
+        "Hero Badge": "Rule of Three",
+        "Villain Badge": "",
+        "Badge Key": "PositronRevampPart1",
+        "setTitleId": "1589",
+        "Description": "Complete the first part of the new Positron Task Force",
+        "Contact": "Positron",
+        "Min Level": "10",
+        "Max Level": "15",
+        "TFC": "Y",
+        "Merits": "11",
+        "Abbreviation": [
+            "Positron 1",
+            "Posi 1"
+        ]
+    },
+    {
+        "Hero Badge": "Dam Hero",
+        "Villain Badge": "Dam Villain",
+        "Badge Key": "PositronRevampPart2",
+        "setTitleId": "1590",
+        "Description": "Complete the second part of the new Positron Task Force",
+        "Contact": "Positron",
+        "Min Level": "11",
+        "Max Level": "15",
+        "TFC": "Y",
+        "Merits": "15",
+        "Abbreviation": [
+            "Positron 2",
+            "Posi 2"
+        ]
+    },
+    {
+        "Hero Badge": "Synapse's Cohort",
+        "Villain Badge": "Synapse's Betrayer",
+        "Badge Key": "SynapseTF",
+        "setTitleId": "62",
+        "Description": "Complete the Synapse Task Force: The Fall of the Clockwork King",
+        "Contact": "Synapse",
+        "Min Level": "15",
+        "Max Level": "20",
+        "TFC": "Y",
+        "Merits": "58",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Sister Psyche's Comrade",
+        "Villain Badge": "Sister Psyche's Betrayer",
+        "Badge Key": "SisterPsycheTF",
+        "setTitleId": "63",
+        "Description": "Complete the Sister Psyche Task Force: Clamor and Destruction in Flashback",
+        "Contact": "Sister Psyche",
+        "Min Level": "20",
+        "Max Level": "25",
+        "TFC": "Y",
+        "Merits": "50",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Citadel's Assistant",
+        "Villain Badge": "Citadel's Betrayer",
+        "Badge Key": "BastionTF",
+        "setTitleId": "64",
+        "Description": "Complete the Citadel Task Force: Citadel's Children",
+        "Contact": "Citadel",
+        "Min Level": "25",
+        "Max Level": "30",
+        "TFC": "Y",
+        "Merits": "40",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Manticore's Associate",
+        "Villain Badge": "Manticore's Betrayer",
+        "Badge Key": "ManticoreTF",
+        "setTitleId": "65",
+        "Description": "Complete the Manticore Task Force: Following Countess Crey",
+        "Contact": "Manticore",
+        "Min Level": "30",
+        "Max Level": "35",
+        "TFC": "Y",
+        "Merits": "32",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Numina's Compatriot",
+        "Villain Badge": "Numina's Betrayer",
+        "Badge Key": "NuminaTF",
+        "setTitleId": "66",
+        "Description": "Complete the Numina Task Force: Soul of the Woodsman",
+        "Contact": "Numina",
+        "Min Level": "35",
+        "Max Level": "40",
+        "TFC": "Y",
+        "Merits": "36",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Honorary Peacebringer",
+        "Villain Badge": "Alien Fighter",
+        "Badge Key": "StrigaTF",
+        "setTitleId": "412",
+        "Description": "Complete the Moonfire Task Force: The Kheldian War",
+        "Contact": "Moonfire",
+        "Min Level": "23",
+        "Max Level": "28",
+        "TFC": "N",
+        "Merits": "31",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Burkholder's Bane",
+        "Villain Badge": "",
+        "Badge Key": "CouncilRobotBadge",
+        "setTitleId": "202",
+        "Description": "Complete the Ernesto Hess Task Force: The MegaMech Cometh",
+        "Contact": "Ernesto Hess",
+        "Min Level": "25",
+        "Max Level": "30",
+        "TFC": "N",
+        "Merits": "19",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Cabalist",
+        "Villain Badge": "",
+        "Badge Key": "CroatoaTF",
+        "setTitleId": "427",
+        "Description": "Complete the Katie Hannon Task Force: A Tangled Plot",
+        "Contact": "Katie Hannon",
+        "Min Level": "30",
+        "Max Level": "34",
+        "TFC": "N",
+        "Merits": "9",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Portal Smasher",
+        "Villain Badge": "",
+        "Badge Key": "ShardTF1",
+        "setTitleId": "423",
+        "Description": "Complete the Dr. Quaterfield Task Force: Explorers and Exploiters",
+        "Contact": "Dr. Quaterfield",
+        "Min Level": "40",
+        "Max Level": "44",
+        "TFC": "N",
+        "Merits": "122",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Destroyer of Strength",
+        "Villain Badge": "",
+        "Badge Key": "ShardTF2",
+        "setTitleId": "424",
+        "Description": "Complete the Sara Moore Task Force: The Legend of Ruladak",
+        "Contact": "Sara Moore",
+        "Min Level": "40",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "63",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Protector of Kindness",
+        "Villain Badge": "Thorn Crusher",
+        "Badge Key": "ShardTF3",
+        "setTitleId": "425",
+        "Description": "Complete the Justin Augustine Task Force: The Saga of Faathim",
+        "Contact": "Justin Augustine",
+        "Min Level": "44",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "42",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Slayer of Madness",
+        "Villain Badge": "",
+        "Badge Key": "ShardTF4",
+        "setTitleId": "426",
+        "Description": "Complete the Faathim the Kind Task Force: The Saga of Lanaru",
+        "Contact": "Faathim the Kind",
+        "Min Level": "44",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "73",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Apocalyptic",
+        "Villain Badge": "",
+        "Badge Key": "VanguardCoOpTF",
+        "setTitleId": "837",
+        "Description": "Complete The Lady Grey Task Force",
+        "Contact": "Lady Grey",
+        "Min Level": "45",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "39",
+        "Abbreviation": [
+            "LGTF"
+        ]
+    },
+    {
+        "Hero Badge": "Temporal Strife",
+        "Villain Badge": "",
+        "Badge Key": "TAComplete",
+        "setTitleId": "993",
+        "Description": "Complete the Imperious Task Force: Time's Arrow",
+        "Contact": "Imperious",
+        "Min Level": "35",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "28",
+        "Abbreviation": [
+            "ITF"
+        ]
+    },
+    {
+        "Hero Badge": "Column Breaker",
+        "Villain Badge": "",
+        "Badge Key": "5thColumnHeroBadge",
+        "setTitleId": "1293",
+        "Description": "Complete the Dr. Kahn Task Force: Return of the Reichsman",
+        "Contact": "Dr. Kahn",
+        "Min Level": "45",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "20",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Alpha Struck",
+        "Villain Badge": "",
+        "Badge Key": "AlphaTF_Complete_TinMage",
+        "setTitleId": "1938",
+        "Description": "Complete the Tin Mage Task Force",
+        "Contact": "Tin Mage Mark II",
+        "Min Level": "50",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "40",
+        "Abbreviation": [
+            "Tinpex"
+        ]
+    },
+    {
+        "Hero Badge": "Weapon Master",
+        "Villain Badge": "Warrior Princess",
+        "Badge Key": "AlphaTF_Complete_Apex",
+        "setTitleId": "1937",
+        "Description": "Complete the Apex Task Force",
+        "Contact": "Apex",
+        "Min Level": "50",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "40",
+        "Abbreviation": [
+            "Tinpex"
+        ]
+    },
+    {
+        "Hero Badge": "Land, Sea & Air",
+        "Villain Badge": "",
+        "Badge Key": "I20_HeroTFComplete",
+        "setTitleId": "1981",
+        "Description": "Complete the Admiral Sutter Task Force",
+        "Contact": "Admiral Sutter",
+        "Min Level": "20",
+        "Max Level": "40",
+        "TFC": "N",
+        "Merits": "22",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Penelope Yin's Friend",
+        "Villain Badge": "Penelope Yin's Betrayer",
+        "Badge Key": "PenelopeYinTF",
+        "setTitleId": "2241",
+        "Description": "Complete the Penelope Yin Task Force",
+        "Contact": "Penelope Yin",
+        "Min Level": "20",
+        "Max Level": "25",
+        "TFC": "Y",
+        "Merits": "20",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Loyal Customer",
+        "Villain Badge": "",
+        "Badge Key": "LoyalCustomer",
+        "setTitleId": "2369",
+        "Description": "Complete the Market Crash Task Force in Kallisti Warf (Issue 25)",
+        "Contact": "Ada Wellington",
+        "Min Level": "40",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "20",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "NO BADGE",
+        "Villain Badge": "",
+        "Badge Key": "",
+        "setTitleId": "NOBADGE",
+        "Description": "Complete the Twilight's Son Task Force: Smoke and Mirrors",
+        "Contact": "Twilight's Son",
+        "Min Level": "25",
+        "Max Level": "34",
+        "TFC": "N",
+        "Merits": "3",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "NO BADGE",
+        "Villain Badge": "",
+        "Badge Key": "NOBADGE",
+        "setTitleId": "",
+        "Description": "Complete the Mender Lazarus' Task Force: The 5th Column Overthrow",
+        "Contact": "Mender Lazarus",
+        "Min Level": "30",
+        "Max Level": "39",
+        "TFC": "N",
+        "Merits": "6",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "NO BADGE",
+        "Villain Badge": "",
+        "Badge Key": "NOBADGE",
+        "setTitleId": "",
+        "Description": "Complete the Mender Silos' Task Force: Trading Places",
+        "Contact": "Mender Silos",
+        "Min Level": "46",
+        "Max Level": "50",
+        "TFC": "N",
+        "Merits": "14",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "",
+        "Villain Badge": "Binder of Beasts",
+        "Badge Key": "BatzulSF",
+        "setTitleId": "512",
+        "Description": "Complete the Virgil Tarikoss Strike Force: The Beast Beneath the Mountain",
+        "Contact": "Virgil Tarikoss",
+        "Min Level": "15",
+        "Max Level": "20",
+        "TFC": "",
+        "Merits": "13",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Pirate Hunter",
+        "Villain Badge": "Air Pirate",
+        "Badge Key": "SkyRaiderSF",
+        "setTitleId": "513",
+        "Description": "Complete the Silver Mantis Strike Force: Pirates of the Sky",
+        "Contact": "Silver Mantis",
+        "Min Level": "20",
+        "Max Level": "25",
+        "TFC": "",
+        "Merits": "42",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "",
+        "Villain Badge": "Leviathan",
+        "Badge Key": "WaterTempleSF",
+        "setTitleId": "514",
+        "Description": "Complete the Operative Renault Strike Force: The Temple of the Waters",
+        "Contact": "Operative Renault",
+        "Min Level": "25",
+        "Max Level": "30",
+        "TFC": "",
+        "Merits": "24",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "",
+        "Villain Badge": "Crystal Keeper",
+        "Badge Key": "SerafinaCrystalSF",
+        "setTitleId": "515",
+        "Description": "Complete the Ice Mistral Strike Force: The Crystal of Serafina",
+        "Contact": "Ice Mistral",
+        "Min Level": "35",
+        "Max Level": "40",
+        "TFC": "",
+        "Merits": "26",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "Former Servant of Recluse",
+        "Villain Badge": "Servant of Recluse",
+        "Badge Key": "LordRecluseTF",
+        "setTitleId": "323",
+        "Description": "Complete the Lord Recluse Strike Force: Future of Freedom",
+        "Contact": "Lord Recluse",
+        "Min Level": "45",
+        "Max Level": "50",
+        "TFC": "",
+        "Merits": "25",
+        "Abbreviation": [
+            "LRTF"
+        ]
+    },
+    {
+        "Hero Badge": "",
+        "Villain Badge": "Arbiter",
+        "Badge Key": "5thColumnVillainBadge",
+        "setTitleId": "1294",
+        "Description": "Complete the Barracuda Strike Force: Thus Spoke the Reichsman",
+        "Contact": "Barracuda",
+        "Min Level": "45",
+        "Max Level": "50",
+        "TFC": "",
+        "Merits": "20",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "",
+        "Villain Badge": "Promethean",
+        "Badge Key": "I20_VillainTFComplete",
+        "setTitleId": "1982",
+        "Description": "Complete the Mortimer Kal Strike Force",
+        "Contact": "Mortimer Kal",
+        "Min Level": "20",
+        "Max Level": "40",
+        "TFC": "",
+        "Merits": "22",
+        "Abbreviation": [
+            ""
+        ]
+    },
+    {
+        "Hero Badge": "NO BADGE",
+        "Villain Badge": "",
+        "Badge Key": "NOBADGE",
+        "setTitleId": "",
+        "Description": "Complete the Mender Tesseract's Task Force: A Spider Weaves his Web",
+        "Contact": "Mender Tesseract",
+        "Min Level": "25",
+        "Max Level": "34",
+        "TFC": "N",
+        "Merits": "8",
+        "Abbreviation": [
+            ""
+        ]
+    }
+]

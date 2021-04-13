@@ -1,0 +1,222 @@
+[
+    {
+        "Trial": "Death From Below",
+        "Trial Key": "DFB",
+        "Max Players": "8",
+        "Min Level": "1",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": ["DFB"]
+    },
+    {
+        "Trial": "Cavern of Transcendence",
+        "Trial Key": "CoT",
+        "Max Players": "8",
+        "Min Level": "12",
+        "Merits": "7",
+        "Contact": "Karsis",
+        "Zone": "Hollows",
+        "Type": "Standard",
+        "Abbreviation": ["CoT"]
+    },
+    {
+        "Trial": "Drowning in Blood",
+        "Trial Key": "DiB",
+        "Max Players": "8",
+        "Min Level": "15",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": ["DiB"]
+    },
+    {
+        "Trial": "Terra Volta 1",
+        "Trial Key": "TV1",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "27",
+        "Contact": "Jane Hallaway",
+        "Zone": "Independence Port",
+        "Type": "Respec",
+        "Abbreviation": ["TV1"]
+    },
+    {
+        "Trial": "Terra Volta 2",
+        "Trial Key": "TV2",
+        "Max Players": "8",
+        "Min Level": "34",
+        "Merits": "20",
+        "Contact": "Captain James Harlan",
+        "Zone": "Founders' Falls",
+        "Type": "Respec",
+        "Abbreviation": ["TV2"]
+    },
+    {
+        "Trial": "Abandoned Sewers",
+        "Trial Key": "Sewers",
+        "Max Players": "8",
+        "Min Level": "38",
+        "Merits": "28",
+        "Contact": "Mairenn MacGregor",
+        "Zone": "Atlas Park",
+        "Type": "Standard",
+        "Abbreviation": [""]
+    },
+    {
+        "Trial": "Eden",
+        "Trial Key": "Eden",
+        "Max Players": "8",
+        "Min Level": "39",
+        "Merits": "6",
+        "Contact": "Woodsman",
+        "Zone": "Eden",
+        "Type": "Standard",
+        "Abbreviation": [""]
+    },
+    {
+        "Trial": "Terra Volta 3",
+        "Trial Key": "TV3",
+        "Max Players": "8",
+        "Min Level": "44",
+        "Merits": "20",
+        "Contact": "Major Richard Flagg",
+        "Zone": "Peregrine Island",
+        "Type": "Respec",
+        "Abbreviation": ["TV3"]
+    },
+    {
+        "Trial": "Cathedral of Pain",
+        "Trial Key": "CoP",
+        "Max Players": "8",
+        "Min Level": "10",
+        "Merits": "?",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "LFG",
+        "Abbreviation": ["CoP"]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT1",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "15",
+        "Contact": "Sparcetiel",
+        "Zone": "Nerva",
+        "Type": "ToT1",
+        "Abbreviation": ["ToT1"]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT2",
+        "Max Players": "8",
+        "Min Level": "24",
+        "Merits": "14",
+        "Contact": "trepsarciel",
+        "Zone": "Nerva",
+        "Type": "ToT1",
+        "Abbreviation": ["ToT2"]
+    },
+    {
+        "Trial": "Tree of Thorns",
+        "Trial Key": "ToT3",
+        "Max Players": "8",
+        "Min Level": "44",
+        "Merits": "15",
+        "Contact": "Ractespriel",
+        "Zone": "",
+        "Type": "ToT1",
+        "Abbreviation": ["ToT3"]
+    },
+    {
+        "Trial": "Behavioral Adjustment Facility",
+        "Trial Key": "BAF",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["BAF"]
+    },
+    {
+        "Trial": "Lambda Sector",
+        "Trial Key": "Lambda",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["LAM"]
+    },
+    {
+        "Trial": "Keyes Island Reactor",
+        "Trial Key": "Keyes",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["Keyes"]
+    },
+    {
+        "Trial": "The Underground",
+        "Trial Key": "Underground",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": [""]
+    },
+    {
+        "Trial": "TPN Campus",
+        "Trial Key": "TPN",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["TPN"]
+    },
+    {
+        "Trial": "Minds of Mayhem",
+        "Trial Key": "MoM",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["MoM"]
+    },
+    {
+        "Trial": "Dilemma Diabolique",
+        "Trial Key": "DD",
+        "Max Players": "16",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["Diabolique", "DD"]
+    },
+    {
+        "Trial": "Magisterium",
+        "Trial Key": "Mag",
+        "Max Players": "24",
+        "Min Level": "50",
+        "Merits": "",
+        "Contact": "LFG",
+        "Zone": "",
+        "Type": "Incarnate",
+        "Abbreviation": ["Mag"]
+    }
+]
