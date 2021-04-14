@@ -219,14 +219,14 @@
         ]
     },
     {
-        "Trial": "Tree of Thorns",
+        "Trial": "Tree of Thorns 1",
         "Trial Key": "ToT1",
         "Max Players": "8",
         "Min Level": "24",
         "Merits": "15",
         "Contact": "Sparcetiel",
         "Zone": "Nerva",
-        "Type": "ToT1",
+        "Type": "Respec",
         "Abbreviation": [
             "ToT1"
         ],
@@ -240,14 +240,14 @@
         ]
     },
     {
-        "Trial": "Tree of Thorns",
+        "Trial": "Tree of Thorns 2",
         "Trial Key": "ToT2",
         "Max Players": "8",
         "Min Level": "24",
         "Merits": "14",
         "Contact": "trepsarciel",
         "Zone": "Nerva",
-        "Type": "ToT1",
+        "Type": "Respec",
         "Abbreviation": [
             "ToT2"
         ],
@@ -261,14 +261,14 @@
         ]
     },
     {
-        "Trial": "Tree of Thorns",
+        "Trial": "Tree of Thorns 3",
         "Trial Key": "ToT3",
         "Max Players": "8",
         "Min Level": "44",
         "Merits": "15",
         "Contact": "Ractespriel",
         "Zone": "",
-        "Type": "ToT1",
+        "Type": "Respec",
         "Abbreviation": [
             "ToT3"
         ],

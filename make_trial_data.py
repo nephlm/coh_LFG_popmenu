@@ -4,7 +4,7 @@ trial_file = "data/trials.json"
 trial_badge_file = "data/trial_badges.json"
 all_badges = "data/all_badges.json"
 
-out_file = "data/trail_data.json"
+out_file = "data/trial_data.json"
 
 
 def read_json_file(infile):

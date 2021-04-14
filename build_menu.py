@@ -70,6 +70,7 @@ class Menu(MenuComponent):
 class TopMenu(Menu):
     def __init__(self, name: str) -> None:
         super().__init__(name)
+        self.items["trials"] = TrialCategoryMenu("Trials")
         self.items["monsters"] = MonsterListMenu("Giant Monsters")
         self.items["taskforces"] = LevelMenu("TaskForces")
         self.title = "Categories"
@@ -81,6 +82,10 @@ class TopMenu(Menu):
     @property
     def monsters(self):
         return self.items["monsters"]
+
+    @property
+    def trials(self):
+        return self.items["trials"]
 
 
 class MonsterListMenu(Menu):
@@ -97,6 +102,50 @@ class MonsterMenu(Menu):
     def add_monster(self, monster_dict: dict):
         self.items[monster_dict["Name"]] = MonsterOption(monster_dict)
         self.name = f'{self.name} [{monster_dict["Zone"]}]'
+
+
+class TrialCategoryMenu(Menu):
+    NORMAL = "Normal"
+    RESPEC = "Respec"
+    INCARNATE = "Incarnate"
+
+    def __init__(self, name: str) -> None:
+        super().__init__(name)
+        self.items = {
+            self.NORMAL: TrialsMenu(self.NORMAL),
+            self.RESPEC: TrialsMenu(self.RESPEC),
+            self.INCARNATE: TrialsMenu(self.INCARNATE),
+        }
+        self.name = "Trials"
+
+    def get_category_key(self, trial_dict):
+        if trial_dict["Type"].lower() in ("respec"):
+            return self.RESPEC
+        elif trial_dict["Type"].lower() in ("incarnate"):
+            return self.INCARNATE
+        return self.NORMAL
+
+    def add_trial(self, trial_dict: dict):
+        category_key = self.get_category_key(trial_dict)
+        self.items[category_key].add_trial(trial_dict)
+
+
+class TrialsMenu(Menu):
+    def add_trial(self, trial_dict):
+        merit_string = ""
+        if trial_dict["Merits"]:
+            merit_string = f"; M: {trial_dict['Merits']}"
+        trial_name_menu = TrialNameMenu(
+            f'{trial_dict["Trial"]} [L: {trial_dict["Min Level"]}+; P: {trial_dict["Max Players"]}{merit_string}]'
+        )
+        trial_name_menu.add_trial(trial_dict)
+        self.items[trial_dict["Trial"] + "TM"] = trial_name_menu
+
+
+class TrialNameMenu(Menu):
+    def add_trial(self, trial_dict):
+        for badge_dict in trial_dict["Badges"]:
+            self.items[badge_dict["Name"] + "TNM"] = TrialOption(badge_dict)
 
 
 class LevelMenu(Menu):
@@ -253,9 +302,16 @@ class MonsterOption(SetTitleLockedOption):
     pass
 
 
+class TrialOption(SetTitleLockedOption):
+    def get_badge_name(self):
+        return self.badge_dict["Name"]
+
+    def get_badge_ident(self):
+        return self.badge_dict["badge_key"]
+
+
 class TFOption(SetTitleLockedOption):
     def get_badge_name(self):
-        print(self.badge_dict["Hero Badge"])
         if self.badge_dict["Hero Badge"]:
             return self.badge_dict["Hero Badge"]
         else:
@@ -291,6 +347,16 @@ def build_monsters(data_file, top_menu):
     return top_menu
 
 
+def build_trials(data_file, top_menu):
+
+    trial_menu = top_menu.trials
+
+    data = load_json_file(data_file)
+    for trial in data:
+        trial_menu.add_trial(trial)
+    return top_menu
+
+
 def main():
     top_menu = TopMenu("LFG")
     with open(outfile, "w") as out:
@@ -299,6 +365,7 @@ def main():
 
         top_menu = build_TFs("data/taskforces.json", top_menu)
         top_menu = build_monsters("data/giant_monsters.json", top_menu)
+        top_menu = build_trials("data/trial_data.json", top_menu)
         out.write(top_menu.build(indent=1))
 
         with open("data/LFGPopmenu_footer.txt", "r") as footer:
